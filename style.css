@@ -38,7 +38,6 @@ body {
 }
 
 .container .box span {
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5) 90%, transparent);
   text-transform: uppercase;
   line-height: 0.76em;
   position: absolute;
@@ -57,11 +56,11 @@ body {
 }
 
 .container .box span i:nth-child(1) {
-  color: #5c5fc4;
+  color: #FFA500
 }
 
 .container .box span i:nth-child(2) {
-  color: #c4c15c;
+  color: #000080;
 }
 
 @keyframes animate {
